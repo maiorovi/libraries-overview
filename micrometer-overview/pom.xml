@@ -11,5 +11,13 @@
 
     <artifactId>micrometer-overview</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>io.micrometer</groupId>
+            <artifactId>micrometer-core</artifactId>
+            <version>1.4.1</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
