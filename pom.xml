@@ -12,6 +12,9 @@
         <module>micrometer-overview</module>
         <module>failsafe-overview</module>
         <module>protocol-buffers-overview</module>
+        <module>resilience4j-sandbox</module>
+        <module>kotlin-sandbox</module>
+        <module>work-tasks</module>
     </modules>
 
     <build>
